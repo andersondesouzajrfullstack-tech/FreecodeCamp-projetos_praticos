@@ -1,7 +1,7 @@
 # 📁 FreeCodeCamp - Projetos Práticos <br><br>
 
 <p align="center">
-  <img src="images/banner-freecodecamp.webp" alt="freeCodeCamp" style="box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); border-radius: 8px;" width="500">
+  <img src="images/banner-freecodecamp.webp" alt="freeCodeCamp" style="box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); border-radius: 8px;" width="800">
 </p>
 
 Este repositório contém a coleção completa de projetos práticos desenvolvidos por mim durante as certificações do **freeCodeCamp**. O objetivo deste espaço é demonstrar a minha evolução técnica rumo ao desenvolvimento **Full Stack JavaScript**.
