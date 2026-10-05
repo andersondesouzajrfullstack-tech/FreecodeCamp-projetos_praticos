@@ -1,32 +1,51 @@
-# 📁 FreeCodeCamp - Projetos Práticos <br><br>
+# 📁 FreeCodeCamp — Projetos Práticos
 
 <p align="center">
   <img src="FreecodeCamp-projetos_praticos/images/banner-freecodecamp.webp" alt="freeCodeCamp" style="box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3); border-radius: 8px;" width="1127">
 </p>
 
-Este repositório contém a coleção completa de projetos práticos desenvolvidos por mim durante as certificações do **freeCodeCamp**. O objetivo deste espaço é demonstrar a minha evolução técnica rumo ao desenvolvimento **Full Stack JavaScript**.
+Este repositório reúne os **projetos práticos desenvolvidos por mim durante meus estudos e certificações na freeCodeCamp**.
 
-A trilha de aprendizado está organizada de forma linear, conectando conceitos de design de interface, lógica de programação, bibliotecas modernas, gerenciamento de dados e construção de APIs robustas.
+O objetivo é registrar minha evolução técnica e colocar em prática os conhecimentos adquiridos ao longo da minha jornada rumo ao desenvolvimento **Full Stack JavaScript**.
 
 ---
 
 ## 🗺️ Mapa de Aprendizado e Tecnologias
 
-| Módulo / Certificação | Foco Principal | Tecnologias Estudadas |
-| :--- | :--- | :--- |
-| **1. Web Design Responsivo** | Fundamentos da web estrutural e estilização moderna. | HTML5, CSS3, Flexbox, CSS Grid, Design Responsivo |
-| **2. JavaScript** | Lógica de programação pura, algoritmos e estruturas. | JavaScript (ES6+), POO, Programação Funcional |
-| **3. Bibliotecas Front-End** | Interfaces dinâmicas, reativas e componentizadas. | React, Redux, Bootstrap, SASS, jQuery |
-| **4. Banco de Dados Relacionais** | Modelagem de dados, armazenamento e persistência. | PostgreSQL, SQL, Bash (Terminal), Git |
-| **5. Back-End e APIs** | Arquitetura de servidores, rotas e comunicação. | Node.js, Express, APIs RESTful, NPM |
+| Módulo / Certificação             | Foco Principal                                              | Tecnologias e Conceitos                      |
+| :-------------------------------- | :---------------------------------------------------------- | :------------------------------------------- |
+| **1. Web Design Responsivo**      | Estrutura, estilização e criação de interfaces responsivas. | HTML5, CSS3, Flexbox, CSS Grid               |
+| **2. JavaScript**                 | Lógica de programação, algoritmos e estruturas de dados.    | JavaScript, ES6+, POO, Programação Funcional |
+| **3. Bibliotecas Front-End**      | Desenvolvimento de interfaces dinâmicas e componentizadas.  | React, Redux, Bootstrap, SASS, jQuery        |
+| **4. Banco de Dados Relacionais** | Armazenamento, consultas e gerenciamento de dados.          | PostgreSQL, SQL, Bash, Git                   |
+| **5. Back-End e APIs**            | Desenvolvimento de servidores, rotas e APIs.                | Node.js, Express, NPM, APIs REST             |
 
 ---
 
-## 📄 Termos de Uso deste Repositório
+## 💻 Projetos
 
-* **Projetos Educacionais (freeCodeCamp):** Os códigos contidos nesta estrutura específica de pastas são fruto do currículo aberto da plataforma. Eles estão disponíveis livremente para consulta, estudo e validação acadêmica por parte de recrutadores e da comunidade dev.
-* **Projetos Autorais e Comerciais:** Fica ressaltado que quaisquer projetos autorais ou de fins comerciais desenvolvidos por mim (localizados em repositórios separados) possuem **proteção total de direitos autorais (Copyright ©)**. Não é permitida a cópia, modificação ou distribuição daqueles sistemas sem autorização expressa.
+Os projetos deste repositório são desenvolvidos como parte prática do currículo da **freeCodeCamp**.
+
+Cada projeto representa uma etapa do meu aprendizado e tem como objetivo transformar os conceitos estudados em **implementações práticas**.
 
 ---
 
-*Documentando a jornada rumo ao desenvolvimento Full Stack com organização e foco.*
+## 📚 Objetivo do Repositório
+
+Este repositório funciona como um registro da minha evolução durante os estudos, permitindo acompanhar meu progresso desde os fundamentos do desenvolvimento web até conceitos mais avançados de **Front-End, Back-End e Full Stack**.
+
+Além de servir como material de estudo, os projetos também podem ser consultados por **recrutadores e outros desenvolvedores interessados em acompanhar minha evolução técnica**.
+
+---
+
+## 📄 Sobre os Projetos
+
+Os projetos desenvolvidos especificamente para o currículo da **freeCodeCamp** seguem a proposta educacional da plataforma e estão organizados neste repositório para fins de estudo, prática e demonstração da minha evolução.
+
+Projetos **autorais e comerciais** desenvolvidos independentemente do currículo da freeCodeCamp serão mantidos em repositórios próprios e estarão sujeitos às respectivas licenças e condições de uso.
+
+---
+
+<p align="center">
+  🚀 <strong>Estudando, construindo e evoluindo rumo ao desenvolvimento Full Stack.</strong>
+</p>
